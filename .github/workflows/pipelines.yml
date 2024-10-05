@@ -11,4 +11,4 @@ jobs:
       - name: AN
         run: echo "workshop"
       - name: resource
-        run: echo"Mr N.C.santhosh"
+        run: echo "Mr N.C.santhosh"
