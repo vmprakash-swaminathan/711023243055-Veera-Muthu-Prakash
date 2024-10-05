@@ -10,5 +10,5 @@ jobs:
         run: echo "DevOps Intro"
       - name: AN
         run: echo "workshop"
-      - name: resource_person
+      - name: resource
         run: echo"Mr N.C.santhosh"
